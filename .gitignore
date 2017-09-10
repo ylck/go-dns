@@ -1,0 +1,6 @@
+.idea
+vendor/
+google_dns_darwin
+google_dns.exe
+google_dns
+Dockerfile
